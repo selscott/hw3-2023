@@ -127,5 +127,5 @@ p{
     /* Set margin, line-spacing, list styling  */
     margin: 0px 45px;
     line-height: 1;
-    list-style-image: "images/sketchbook.png";
+    list-style-image: url("/hw3-2023/images/sketchbook.png");
 }
