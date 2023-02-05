@@ -1,6 +1,7 @@
 body{
    /* Set line spacing */
    line-height: 1.25;
+   margin: 0px 20px 0px 20px;
 }
 
 header, nav{
@@ -10,7 +11,7 @@ header, nav{
 }
 
 nav{
-    width: 800px;
+    width: 825px;
     margin: 25px auto;
 }
 
@@ -26,6 +27,7 @@ nav ul li{
 nav a{
     /* Set text decoration*/
     text-decoration: none;
+    color: black;
 }
 
 a:visited{
